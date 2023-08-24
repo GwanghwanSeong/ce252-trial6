@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # **CE252 Class: Introduction to Data Science for Civil Engineers**
-## KAIST, Fall 2023 .text-grey-lt-300
+## KAIST, Fall 2023{: .text-grey-lt-300}
 
 ### Instructors: Yoonjin Yoon, Seyun Kim
 - email: yoonjin@kaist.ac.kr
