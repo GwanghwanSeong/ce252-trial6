@@ -1,6 +1,6 @@
 ---
 title: FAQs
-layout: FAQs
+layout: home
 ---
 
 Frequently Asked Questions
