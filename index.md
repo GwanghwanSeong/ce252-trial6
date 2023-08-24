@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 4
 ---
 
 CE252 Class: Introduction to Data Science for Civil Engineers
