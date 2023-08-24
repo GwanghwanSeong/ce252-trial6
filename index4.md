@@ -6,13 +6,16 @@ nav_order: 3
 
 Materials
 
+
 - Data
 
-| Happiness report | 
+| Happiness report | [Page](https://worldhappiness.report/){: .btn .btn-blue } \ [Data](https://worldhappiness.report/){: .btn .btn-blue } |
 
-2. Lab work
 
-3. ...
+- Lab work
+
+
+-  ...
 
 ----
 
