@@ -4,19 +4,22 @@ layout: home
 nav_order: 3
 ---
 
-Materials
+# Resources
 
 
-- Data
-
-| UN happiness report | [Page](https://worldhappiness.report/){: .btn .btn-blue } |
-|                     |     [Data](https://worldhappiness.report/){: .btn .btn-blue } |
+## Data
 
 
-- Lab work
+### UN happiness report
+
+  - World Happiness Report 2023
+It has been over ten years since the first World Happiness Report was published. And it is exactly ten years since the United Nations General Assembly adopted Resolution 66/281, proclaiming 20 March to be observed annually as International Day of Happiness. Since then, more and more people have come to believe that our success as countries should be judged by the happiness of our people. There is also a growing consensus about how happiness should be measured. This consensus means that national happiness can now become an operational objective for governments.
+
+  - Homepage: https://worldhappiness.report/
+
+  - Data
 
 
--  ...
 
 ----
 
