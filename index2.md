@@ -27,9 +27,6 @@ nav_order: 2
 Deprecated
 {: .label .label-red }
 
-Deprecated  {: .label .label-red }
-
-Deprecated {: .label .label-red }
 
 Week 1
 
