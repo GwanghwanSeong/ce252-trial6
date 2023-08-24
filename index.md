@@ -36,9 +36,7 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 Announcements
 
-| Week 0 
-- Welcome
-- Mon & Wed    |
+| Week 0     |
 
 
 
@@ -58,16 +56,7 @@ Week 2
 |            | Tables; Census            | [Lab 02](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
 
 
-Table
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  
-ddd
-ddd|
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ----
 
