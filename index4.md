@@ -7,6 +7,17 @@ nav_order: 3
 # Resources
 
 
+## UC	Berkeley	Data	8	Resources
+
+  - Textbook: Homepage: [https://inferentialthinking.com/chapters/intro.html](https://inferentialthinking.com/chapters/intro.html)
+
+  - Syllabus	&	video	&	lecture	note	from	summer	2021: [http://data8.org/su21/](http://data8.org/su21/)
+
+  - Assignment link: [https://github.com/data-8/data8assets/tree/gh-pages/materials](https://github.com/data-8/data8assets/tree/gh-pages/materials)
+
+  - Dataset: [https://github.com/data-8/textbook](https://github.com/data-8/textbook)
+
+
 ## Data
 
 
