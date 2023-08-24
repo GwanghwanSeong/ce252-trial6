@@ -5,42 +5,32 @@ nav_order: 1
 ---
 
 # **CE252 Class: Introduction to Data Science for Civil Engineers**
-## KAIST, Fall 2023 {: .text-grey-lt-300}
+## [KAIST, Fall 2023]{: .text-grey-lt-300}
 
-## Instructors: Yoonjin Yoon, Seyun Kim
-<dl>
- <dt> email (Yoonjin Yoon) </dt>
- <dd> yoonjin@kaist.ac.kr </dd>
- <dt> office </dt>
- <dd> W16 410 </dd>
- <dt> office hour </dt>
- <dd> Wed. 15:00 ~ 16:00 or by appointment </dd>
-</dl>
+### Instructors: Yoonjin Yoon, Seyun Kim
+- email: yoonjin@kaist.ac.kr
+- office: W16 410
+- office hours: Wed. 15:00 ~ 16:00 or by appointment
 
-## Teaching Assistants: Hyeyeong Lee (Lead TA), Gwanghwan Seong, Junghee Kim
-<dl>
- <dt> email </dt>
- <dd> leehy305@kaist.ac.kr, skhshk@kaist.ac.kr, junghee@kaist.ac.kr </dd>
- <dt> office </dt>
- <dd> W16 407 </dd>
- <dt> office hours </dt>
- <dd> (TBD) or by appointment </dd>
-</dl>
+### Teaching Assistants: Hyeyeong Lee (Head TA), Gwanghwan Seong, Junghee Kim
+- email: leehy305@kaist.ac.kr, skhshk@kaist.ac.kr, junghee@kaist.ac.kr
+- office: W16 407
+- office hours: (TBD) or by appointment
 
-## Class time
+### Class time
  - Mon: 13:00~14:30
  - Wed: 13:00~14:30
 
 
-## Classroom
+### Classroom
   - (W1-2) Dept. of Civil & Environmental Engineering 1211호
 
 
-## Lab
+### Lab
  - 1 hour lab (TBD)
 
 
-## Course	Description
+### Course	Description
 
 Introductory	 course	 on	 data science	with	 focus	 on	Civil	 Engineering	applications.	 The	
 course	if	based	on	UC	Berkeley	Data	Science	course	Data	8.	The	course	will	cover	basic
@@ -56,7 +46,7 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 
 
-### **Week 1**
+### Week 1
 
 | Aug 28     | Introduction              | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
 |            |                               | [Textbook](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-purple }     |
@@ -64,7 +54,7 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 |            |                               | [Lab 01](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
 
 
-### **Week 2**
+### Week 2
 
 | Sep 04     | Data Literacy             | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
 |            | Cause and Effect, Tables  |     |
