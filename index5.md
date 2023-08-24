@@ -16,13 +16,13 @@ Instructors
 Teaching Assistants
 
   - Hyeyeong Lee
-      - e-mail:
+      - e-mail: leehy305@kaist.ac.kr
   
   - Gwanghwan Seong
       - e-mail: skhshk@kaist.ac.kr
   
   - Junghee Kim
-      - e-mail: 
+      - e-mail: junghee@kaist.ac.kr
 
 
 
