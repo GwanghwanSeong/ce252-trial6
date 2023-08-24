@@ -6,14 +6,22 @@ layout: home
 Instructors
 
   - Yoonjin Yoon
+      - e-mail: yoonjin@kaist.ac.kr
+  
   - Seyun Kim
+      - e-mail: whataud@kaist.ac.kr
 
 
 Teaching Assistants
 
   - Hyeyeong Lee
+      - e-mail:
+  
   - Gwanghwan Seong
+      - e-mail: skhshk@kaist.ac.kr
+  
   - Junghee Kim
+      - e-mail: 
 
 
 ----
