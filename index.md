@@ -48,11 +48,10 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 
 ### Week 1
-|============|===========================|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Aug 28     | Introduction              | [Slide] {: .label .label-blue }         |
+| **Aug 28**     | **Introduction **             | [Slide] {: .label .label-blue }         |
 :            :                           : [Introduction](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5)
 :            :                           : [Textbook](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-purple }                                               :
-| Aug 30     | Class organization        | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
+| **Aug 30**     | **Class organization**        | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
 :            :                           : [Lab 01](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }                                                  :
 
 
