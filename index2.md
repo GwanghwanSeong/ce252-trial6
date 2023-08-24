@@ -8,6 +8,17 @@ Week 1
   - Lab 01
   - homework 01
 
+Week 2
+
+  - Lab 02
+  - homework 02
+
+Week 3
+
+  - Lab 03
+  - homework 03
+
+
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
