@@ -17,6 +17,10 @@ It has been over ten years since the first World Happiness Report was published.
 
   - Homepage: https://worldhappiness.report/
 
+  - aux_links:
+  "Homepage":
+    - "[//github.com/just-the-docs/just-the-docs](https://worldhappiness.report/)"
+
   - Data
 
 
