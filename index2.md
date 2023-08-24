@@ -1,6 +1,7 @@
 ---
 title: Homework
 layout: home
+nav_order: 2
 ---
 
 Week 1
