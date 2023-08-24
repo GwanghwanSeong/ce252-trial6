@@ -6,17 +6,22 @@ nav_order: 1
 
 CE252 Class: Introduction to Data Science for Civil Engineers
 
+
 Instructors: Yoonjin Yoon, Seyun Kim
+
 
 Class time
  - Mon: 13:00~14:30
  - Wed: 13:00~14:30
 
+
 Classroom
   - (W1-2) Dept. of Civil & Environmental Engineering 1211호
 
+
 Lab
  - 1 hour lab (TBD)
+
 
 Course	Description
 
@@ -27,10 +32,15 @@ statistical inference,	 modeling	 with	 regression.	 Prior	 training	 in	 basic	
 mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 
+
+
 Announcements
 
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
+| Week 0 
+- Welcome
+- Mon & Wed    |
+
+
 
 Week 1
 
@@ -39,6 +49,7 @@ Week 1
 | Aug 30     | Class organization        | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
 |            |                           | [Lab 01](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
 
+
 Week 2
 
 | Sep 04     | Data Literacy;            | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
@@ -46,11 +57,14 @@ Week 2
 | Sep 06     | Data Types; Building      | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
 |            | Tables; Census            | [Lab 02](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
 
+
 Table
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| ok           | good swedish fish | nice  
+ddd
+ddd|
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
