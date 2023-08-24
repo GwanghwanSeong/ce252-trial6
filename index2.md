@@ -1,6 +1,6 @@
 ---
 title: Homework
-layout: homework
+layout: home
 ---
 
 Week 1
