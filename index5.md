@@ -1,6 +1,7 @@
 ---
 title: Contacts
 layout: home
+nav_order: 5
 ---
 
 Instructors
