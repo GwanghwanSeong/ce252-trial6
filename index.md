@@ -3,9 +3,9 @@ title: Home
 layout: home
 ---
 
-CE252 Class:Introduction to Data Science for Civil Engineers
+CE252 Class: Introduction to Data Science for Civil Engineers
 
-Yoonjin Yoon, Seyun Kim
+Instructors: Yoonjin Yoon, Seyun Kim
 
 Class time
  - Mon: 13:00~14:30
@@ -13,6 +13,17 @@ Class time
 
 Classroom
   - (W1-2) Dept. of Civil & Environmental Engineering 1211호
+
+Lab
+ - 1 hour lab (TBD)
+
+Course	Description
+
+Introductory	 course	 on	 data science	with	 focus	 on	Civil	 Engineering	applications.	 The	
+course	if	based	on	UC	Berkeley	Data	Science	course	Data	8.	The	course	will	cover	basic
+knowledge	 required	 for	 advanced data	 science	 including data	 literacy, probability,	
+statistical inference,	 modeling	 with	 regression.	 Prior	 training	 in	 basic	 engineering	
+mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 ----
 
