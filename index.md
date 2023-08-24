@@ -4,26 +4,26 @@ layout: home
 nav_order: 1
 ---
 
-CE252 Class: Introduction to Data Science for Civil Engineers
+# CE252 Class: Introduction to Data Science for Civil Engineers
 
 
-Instructors: Yoonjin Yoon, Seyun Kim
+## Instructors: Yoonjin Yoon, Seyun Kim
 
 
-Class time
+### Class time
  - Mon: 13:00~14:30
  - Wed: 13:00~14:30
 
 
-Classroom
+### Classroom
   - (W1-2) Dept. of Civil & Environmental Engineering 1211호
 
 
-Lab
+### Lab
  - 1 hour lab (TBD)
 
 
-Course	Description
+### Course	Description
 
 Introductory	 course	 on	 data science	with	 focus	 on	Civil	 Engineering	applications.	 The	
 course	if	based	on	UC	Berkeley	Data	Science	course	Data	8.	The	course	will	cover	basic
@@ -34,26 +34,26 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 
 
-Announcements
+### Announcements
 
 | Week 0     |
 
 
 
-Week 1
+#### Week 1
 
-| Aug 28     | Introduction              | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
+| **Aug 28**     | **Introduction**              | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
 |            |                           | [Textbook](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-purple }     |
-| Aug 30     | Class organization        | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
+| **Aug 30**     | **Class organization**        | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
 |            |                           | [Lab 01](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
 
 
-Week 2
+#### Week 2
 
-| Sep 04     | Data Literacy;            | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
-|            | Cause and Effect; Tables  |     |
-| Sep 06     | Data Types; Building      | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
-|            | Tables; Census            | [Lab 02](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
+| **Sep 04**     | **Data Literacy**;            | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
+|            | **Cause and Effect**; **Tables**  |     |
+| **Sep 06**     | **Data Types**; **Building**      | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
+|            | **Tables**; **Census**            | [Lab 02](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
 
 
 
