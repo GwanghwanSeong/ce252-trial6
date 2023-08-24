@@ -48,6 +48,7 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 
 ### Week 1
+
 | **Aug 28**     | **Introduction**             | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
 |                |                              | [Textbook](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-purple }                                               |
 | **Aug 30**     | **Class organization**       | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
@@ -55,6 +56,7 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 
 ### Week 2
+
 | **Sep 04**     | **Data Literacy** <br /> **Cause and Effect, Tables**   | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }   |                                                              
 | **Sep 06**     | **Data Types, Building**      | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
 |            | Tables, Census            | [Lab 02](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }                                                  |
