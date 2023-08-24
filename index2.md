@@ -11,8 +11,6 @@ nav_order: 2
 {: .label .label-blue } | Due: 2023.09.xx |
 | Week 04 | Lab 01
 Lab 01
-Lab 01
-
 Lab 01 |  |
 | Week 05 |  |  |
 | Week 06 |  |  |
