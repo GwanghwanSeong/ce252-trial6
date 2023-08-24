@@ -22,7 +22,12 @@ nav_order: 2
 | Week 15 |  |  |
 | Week 16 |  |  |
 
+Deprecated
+{: .label .label-red }
 
+Deprecated  {: .label .label-red }
+
+Deprecated {: .label .label-red }
 
 Week 1
 
