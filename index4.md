@@ -9,8 +9,8 @@ Materials
 
 - Data
 
-| Happiness report | [Page](https://worldhappiness.report/){: .btn .btn-blue } |
-|                  |     [Data](https://worldhappiness.report/){: .btn .btn-blue } |
+| UN happiness report | [Page](https://worldhappiness.report/){: .btn .btn-blue } |
+|                     |     [Data](https://worldhappiness.report/){: .btn .btn-blue } |
 
 
 - Lab work
