@@ -1,4 +1,6 @@
-# just-the-docs-template
+# CE252 Class
+
+2023 Fall
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
