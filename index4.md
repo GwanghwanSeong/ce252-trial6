@@ -1,6 +1,6 @@
 ---
 title: Resources
-layout: resources
+layout: home
 ---
 
 Materials
