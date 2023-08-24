@@ -7,7 +7,9 @@ nav_order: 2
 
 | Week 01 |  |  |
 | Week 02 | Lab 01 {: .label .label-blue } | Due: 2023.09.xx |
-| Week 03 |  |  |
+| Week 03 | 
+ Lab 01
+ {: .label .label-blue } | Due: 2023.09.xx |
 | Week 04 |  |  |
 | Week 05 |  |  |
 | Week 06 |  |  |
