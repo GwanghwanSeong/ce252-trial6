@@ -5,10 +5,27 @@ nav_order: 1
 ---
 
 # CE252 Class: Introduction to Data Science for Civil Engineers
-
+## KAIST, Fall 2023 {: .text-grey-lt-300}
 
 ## Instructors: Yoonjin Yoon, Seyun Kim
+<dl>
+ <dt> email (Yoonjin Yoon) </dt>
+ <dd> yoonjin@kaist.ac.kr </dd>
+ <dt> office </dt>
+ <dd> W16 410 </dd>
+ <dt> office hour </dt>
+ <dd> Wed. 15:00 ~ 16:00 or by appointment </dd>
+</dl>
 
+## Teaching Assistants: Hyeyeong Lee, Gwanghwan Seong, Junghee Kim
+<dl>
+ <dt> email </dt>
+ <dd> leehy305@kaist.ac.kr, skhshk@kaist.ac.kr, junghee@kaist.ac.kr </dd>
+ <dt> office </dt>
+ <dd> W16 407 </dd>
+ <dt> office hours </dt>
+ <dd> (TBD) or by appointment </dd>
+</dl>
 
 ### Class time
  - Mon: 13:00~14:30
@@ -33,7 +50,6 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 
 
-
 ### Announcements
 
 | Week 0     |
@@ -43,17 +59,17 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 #### Week 1
 
 | Aug 28     | **Introduction**              | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
-|            |                           | [Textbook](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-purple }     |
+|            |                               | [Textbook](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-purple }     |
 | Aug 30     | **Class organization**        | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
-|            |                           | [Lab 01](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
+|            |                               | [Lab 01](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
 
 
 #### Week 2
 
-| Sep 04     | **Data Literacy**;            | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
-|            | **Cause and Effect**; **Tables**  |     |
-| Sep 06     | **Data Types**; **Building**      | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
-|            | **Tables**; **Census**            | [Lab 02](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
+| Sep 04     | **Data Literacy**                 | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
+|            | **Cause and Effect**, **Tables**  |     |
+| Sep 06     | **Data Types**, **Building**      | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
+|            | **Tables**, **Census**            | [Lab 02](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
 
 
 
