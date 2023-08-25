@@ -45,7 +45,7 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 | This week            | - We plan to conduct practical and classroom related surveys. <br /> - Please fill out the Google form below to complete the survey. (Until Sep xx). <br /> - Link: |
 | Last week            |  |
-| Past Announcements   | - Go here:  |
+| Past Announcements   | - Go here: [Announcements](https://gwanghwanseong.github.io/ce252-trial6/index6.html) |
 
 
 
