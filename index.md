@@ -52,7 +52,7 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 ### Week 1
 
 | **Aug 28**     | **Introduction**             | [Slide](){: .btn .btn-blue } : Lecture materials <br /> [Textbook](){: .btn .btn-purple } : (Regerence material) |
-| **Aug 30**     | **Class organization**       | Lab exercise 01<br />{: .label .label-green } <br /> [Lab 01](){: .btn .btn-red }  |
+| **Aug 30**     | **Class organization**       | Lab exercise <br /> {: .label .label-green } [Lab exercise 01]() <br /> [Lab 01](){: .btn .btn-red }  |
 
 
 
