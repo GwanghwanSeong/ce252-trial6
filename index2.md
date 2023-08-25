@@ -9,9 +9,9 @@ nav_order: 3
 
 
 | Week 01 |  |  |
-| Week 02 | `Assignment 01` link <br /> `Lab 01` link | Due: 2023.09.xx <br /> Due: 2023.09.xx |
-| Week 03 |                             `Lab 02` link |                        Due: 2023.09.xx |
-| Week 04 | `Assignment 02` link <br /> `Lab 03` link | Due: 2023.09.xx <br /> Due: 2023.09.xx |
+| Week 02 | `Assignment 01` link <br /> `Lab 01` link | Assignment 01 due: 2023.09.xx <br /> Lab 01 due: 2023.09.xx |
+| Week 03 |  |  |
+| Week 04 |  |  |
 | Week 05 |  |  |
 | Week 06 |  |  |
 | Week 07 |  |  |
