@@ -7,9 +7,9 @@ nav_order: 4
 Frequently Asked Questions
 
 
-Q: What is the best way to get help in this course?
+Q: 
 
-A: Your best avenues are to go to office hours held by the course staff, or to ask questions on Ed. Course staff will be monitoring Ed frequently and will try to answer your question quickly and thoroughly.
+A: 
 
 ----
 
