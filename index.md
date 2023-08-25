@@ -43,7 +43,9 @@ mathemtics is	required.	Coding	experience is helpful	but	not	required.
 
 ## Announcements
 
-| Week 0     |
+| This week     | - We plan to conduct practical and classroom related surveys. <br /> - Please fill out the Google form below to complete the survey. (Until Sep xx). <br /> - Link: |
+| Last week     \  |
+| Past          |  |
 
 
 
