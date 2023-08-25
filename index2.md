@@ -5,10 +5,15 @@ nav_order: 2
 ---
 
 
+# Homework
+
+
 | Week 01 |  |  |
-| Week 02 | Lab 01 {: .label .label-blue } | Due: 2023.09.xx |
-| Week 03 | `Lab 02` link | Due: 2023.09.xx |
-| Week 04 | `Lab 03` link |  |
+| Week 02 | `Assignment 01` link | Due: 2023.09.xx |
+|         | `Lab 01` link        | Due: 2023.09.xx |
+| Week 03 | `Lab 02` link        | Due: 2023.09.xx |
+| Week 04 | `Assignment 02` link | Due: 2023.09.xx |
+|         | `Lab 03` link        | Due: 2023.09.xx |
 | Week 05 |  |  |
 | Week 06 |  |  |
 | Week 07 |  |  |
@@ -22,24 +27,7 @@ nav_order: 2
 | Week 15 |  |  |
 | Week 16 |  |  |
 
-Deprecated
-{: .label .label-red }
 
-
-Week 1
-
-  - Lab 01
-  - homework 01
-
-Week 2
-
-  - Lab 02
-  - homework 02
-
-Week 3
-
-  - Lab 03
-  - homework 03
 
 
 ----
